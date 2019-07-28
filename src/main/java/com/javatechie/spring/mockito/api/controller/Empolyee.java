@@ -4,6 +4,7 @@ public class Empolyee {
 	
 	private int id;
 	private String name;
+	private String lastname;
 
 	public String getName() {
 		return name;
